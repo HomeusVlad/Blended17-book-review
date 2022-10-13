@@ -1,0 +1,112 @@
+.main {
+    width: 1800px;
+    height: 920px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    margin: auto;
+    flex-direction: column;
+    display: flex;
+    font-family: 'Fuzzy Bubbles', cursive;
+
+}
+
+.background {
+    width: 980px;
+    align-self: flex-end;
+    margin-top: auto;
+    margin-bottom: 40px;
+    margin-right: 40px;
+}
+
+.notes {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    /* background-color: black; */
+    width: 1200px;
+    height: 840px;
+    flex-direction: column;
+    display: flex;
+
+}
+.book {
+    width: 316px;
+    margin-top: 186px;
+    margin-left: 551px;
+}
+
+.note {
+    background-color: rgb(217, 202, 115);
+    width: 340px;
+    height: 160px;
+    position: absolute;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px gray;
+}
+.frame {
+    background-color: rgb(74, 243, 243);
+    align-self: flex-end;
+    margin-right: 116px;
+    margin-top: 132px;
+    width: 416px;
+    height: 180px;
+    position: absolute;
+    border-radius: 15px;
+
+    text-align: center;
+}
+h1 {
+    font-weight: 700;
+    font-size: 70px;
+    margin-top: 20px;
+}
+
+.one {
+    margin-top: 31px;
+    margin-left: 61px
+}
+.two {
+    margin-left: 439px;
+    margin-top: 43px;
+
+}
+.three {
+    margin-left: 835px;
+    margin-top: 45px;
+
+}
+.four {
+    margin-left: 847px;
+    margin-top: 244px;
+
+}
+.five {
+    margin-left: 835px;
+    margin-top: 445px;
+
+}
+.six {
+    margin-left: 833px;
+    margin-top: 643px;
+
+}
+.seven {
+    margin-left: 444px;
+    margin-top: 643px;
+
+}
+.eight {
+    margin-left: 65px;
+    margin-top: 648px;
+
+}
+.nine {
+    margin-left: 42px;
+    margin-top: 452px;
+
+}
+.ten {
+    margin-left: 47px;
+    margin-top: 239px;
+
+}
